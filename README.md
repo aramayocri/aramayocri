@@ -14,9 +14,4 @@ Me encuantro en constante actualización sobre nuevas tecnologías, sobre todo e
 https://www.linkedin.com/in/armycrih/) 
 
 
-## WakaTime Dev Metrics
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
