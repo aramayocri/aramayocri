@@ -5,7 +5,7 @@ Soy Cristian, actualmente estoy trabajando en un par de proyectos personales, de
 
 ## Estudios 🚀
 
-Me encuantro en constante actualización sobre nuevas tecnologías, sobre todo en ciencia de datos; por lo que puedes encontrar también algo de notebooks..
+Me encuantro en constante actualización sobre nuevas tecnologías, sobre todo en Blockchain y Ciencia de datos.
 
 
 ## Contáctame en las siguientes redes: ⌨️
