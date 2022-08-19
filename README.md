@@ -6,7 +6,7 @@ Soy Cristian, actualmente, haciendo pivot de PHP a Python Backend Developer, me 
 
 ## Estudios 🚀
 
-Me encuantro en constante actualización sobre nuevas tecnologías, sobre todo en Blockchain y Ciencia de datos.
+Me encuentro en constante actualización sobre nuevas tecnologías, sobre todo en Blockchain y Ciencia de datos.
 
 
 ## Contáctame en las siguientes redes: ⌨️
