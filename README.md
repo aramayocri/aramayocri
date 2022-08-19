@@ -1,7 +1,8 @@
 # Hola! 😊
 
-Soy Cristian, actualmente estoy trabajando en un par de proyectos personales, de todas maneras siente cómodo de visitar mis repositorios, tal vez encuentres algo que te sirva o algun proyecto con el que quieras colaborar.
+Soy Cristian, actualmente, haciendo pivot de PHP a Python Backend Developer, me encuentro desarrollando herramientas para artistas digitales y para estudiantes de ciencia de datos. Entusiasmado con esta colaboración que, a la vez, me sirve para aplicar mis conocimientos como ingeniero de software y programador en un lenguaje como Python con Django, Flask, FastAPI y otras tecnologías: MySQL, PostgreSQL, Chakra UI, React (en las últimas no precisamente de back-end).
 
+[Iomanoid Project](https://github.com/armycrih/Iomanoid)
 
 ## Estudios 🚀
 
