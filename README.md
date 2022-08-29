@@ -1,6 +1,8 @@
 # Hola! 😊
-
-Soy Cristian, actualmente, haciendo pivot de PHP a Python Backend Developer, me encuentro desarrollando herramientas para artistas digitales y para estudiantes de ciencia de datos. Entusiasmado con esta colaboración que, a la vez, me sirve para aplicar mis conocimientos como ingeniero de software y programador en un lenguaje como Python con Django, Flask, FastAPI y otras tecnologías: MySQL, PostgreSQL, Chakra UI, React.
+Soy Cristian,
+👨🏻‍💻Software Engineer, Blockchain & Data Science Research
+Me apasiona todo lo que tenga que ver con datos y cripto!
+Actualmente me encuentro desarrollando herramientas para artistas digitales y para estudiantes de ciencia de datos. Entusiasmado con esta colaboración que, a la vez, me sirve para aplicar mis conocimientos como ingeniero de software y programador en un lenguaje como Python con Django, Flask, FastAPI y otras tecnologías: MySQL, PostgreSQL, Chakra UI, React.
 
 [Iomanoid Project](https://github.com/armycrih/Iomanoid)
 
