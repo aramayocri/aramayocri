@@ -1,15 +1,20 @@
 # Hola! Soy Cristian
 <p align="center"><img src="portada_code_armycrih.jpg" alt="portada"></p>
 
-👨🏻‍💻Software Engineer, Blockchain & Data Science Research. 
-Me apasiona todo lo que tenga que ver con datos y cripto!
-Actualmente me encuentro desarrollando aplicaciones web para artistas digitales y para estudiantes de ciencia de datos. Entusiasmado con esta colaboración que, a la vez, me sirve para aplicar mis conocimientos como ingeniero de software y programador en un lenguaje como Python con Django, Flask, FastAPI y otras tecnologías: MySQL, PostgreSQL, SQL-Alchemy.
+Soy ingeniero de software profesional desde hace más de veinte años.
+
+En Febrero de 2022 dejé mi trabajo en una Agencia Gubernamental para dedicarme 100% a lo que me apasiona: Desarrollo Web, Blockchain y Ciencia de Datos.
+
+Actualmente me encuentro desarrollando aplicaciones web para artistas digitales y para estudiantes de ciencia de datos. Entusiasmado con esta colaboración que, a la vez, me sirve para aplicar mis conocimientos como ingeniero de software y programador en un lenguaje como Python.
+
+## Portfolio 
 
 [Iomanoid Project](https://github.com/armycrih/Iomanoid)
 
-## Estudios 🚀
+## Tecnologías 
+Django, Flask, FastAPI, MySQL, PostgreSQL, SQL-Alchemy, 
+ORMs, PHP, Laravel, HTML, CSS, VUE.JS.
 
-Me encuentro en constante actualización sobre nuevas tecnologías, sobre todo en Blockchain y Ciencia de datos.
 
 
 ## Contáctame en las siguientes redes: ⌨️
