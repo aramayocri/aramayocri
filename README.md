@@ -1,5 +1,5 @@
 # Hola! Soy Cristian
-#![](portada_code_armycrih.jpg)
+<p align="center"><img src="portada_code_armycrih.jpg" alt="portada"></p>
 
 👨🏻‍💻Software Engineer, Blockchain & Data Science Research. 
 Me apasiona todo lo que tenga que ver con datos y cripto!
