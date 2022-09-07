@@ -1,7 +1,7 @@
 # Hola! Soy Cristian
 <p align="center"><img src="portada_code_armycrih.jpg" alt="portada"></p>
 
-Soy ingeniero de software profesional desde hace más de veinte años.
+Ingeniero de software profesional desde hace más de veinte años.
 
 En Febrero de 2022 dejé mi trabajo en una Agencia Gubernamental para dedicarme 100% a lo que me apasiona: Desarrollo Web, Blockchain y Ciencia de Datos.
 
