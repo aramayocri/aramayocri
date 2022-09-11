@@ -8,8 +8,9 @@ En Febrero de 2022 dejé mi trabajo en una Agencia Gubernamental para dedicarme 
 Actualmente me encuentro desarrollando aplicaciones web para artistas digitales y para estudiantes de ciencia de datos. Entusiasmado con esta colaboración que, a la vez, me sirve para aplicar mis conocimientos como ingeniero de software y programador en un lenguaje como Python.
 
 ## Portfolio 
-
-[Iomanoid Project](https://github.com/armycrih/Iomanoid)
+### Iomanoid Project
+Iomanoid Directory Plus combines real-world utilities with Web3 by empowering the crypto community with exclusive tools and resources for NFT lovers.
+[Iomanoid repository](https://github.com/armycrih/Iomanoid)
 
 ## Tecnologías 
 Django, Flask, FastAPI, MySQL, PostgreSQL, SQL-Alchemy, 
