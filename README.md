@@ -10,11 +10,11 @@ Actualmente me encuentro desarrollando aplicaciones web para artistas digitales 
 ## Portfolio 
 ### Iomanoid Project
 Iomanoid Directory Plus combines real-world utilities with Web3 by empowering the crypto community with exclusive tools and resources for NFT lovers.
-[Iomanoid repository](https://github.com/armycrih/Iomanoid)
+[>> repository](https://github.com/armycrih/Iomanoid)
 
 ### DataFake Project
 Fake dataset generator
-[DataFake repository](https://github.com/armycrih/datafake)
+[>> repository](https://github.com/armycrih/datafake)
 
 ## Tecnologías 
 Django, Flask, FastAPI, MySQL, PostgreSQL, SQL-Alchemy, 
