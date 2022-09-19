@@ -13,7 +13,7 @@ Iomanoid Directory Plus combines real-world utilities with Web3 by empowering th
 [>> repository](https://github.com/armycrih/Iomanoid)
 
 ### DataFake Project
-Fake dataset generator
+Fake dataset generator for Data Science Students
 [>> repository](https://github.com/armycrih/datafake)
 
 ## Tecnologías 
