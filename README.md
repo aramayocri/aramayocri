@@ -3,7 +3,7 @@
 
 Ingeniero de software profesional desde hace más de veinte años.
 
-En Febrero de 2022 dejé mi trabajo en una Agencia Gubernamental para dedicarme 100% a lo que me apasiona: Desarrollo Web, Blockchain y Ciencia de Datos.
+Desde Febrero de 2022 me dedico 100% a lo que me apasiona: Desarrollo Web, Blockchain y Ciencia de Datos.
 
 Actualmente me encuentro desarrollando aplicaciones web para artistas digitales y para estudiantes de ciencia de datos. Entusiasmado con esta colaboración que, a la vez, me sirve para aplicar mis conocimientos como ingeniero de software y programador en un lenguaje como Python.
 
