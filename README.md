@@ -1,11 +1,11 @@
-# Hola! Soy Cristian
+# Hello! I'm Cristian
 <p align="center"><img src="portada_code_armycrih.jpg" alt="portada"></p>
 
-Ingeniero de software profesional desde hace más de veinte años.
+Professional software engineer for more than twenty years.
 
-Desde Febrero de 2022 me dedico 100% a lo que me apasiona: Desarrollo Web, Blockchain y Ciencia de Datos.
+Since February 2022 I have been 100% dedicated to what I am passionate about: Web Development, Blockchain and Data Science.
 
-Actualmente me encuentro desarrollando aplicaciones web para artistas digitales y para estudiantes de ciencia de datos. Entusiasmado con esta colaboración que, a la vez, me sirve para aplicar mis conocimientos como ingeniero de software y programador en un lenguaje como Python.
+I am currently developing web applications for digital artists and data science students. Excited about this collaboration that, at the same time, helps me apply my knowledge as a software engineer and programmer in a language as versatile as Python.
 
 # Portfolio 
 ## Iomanoid Project
@@ -22,7 +22,7 @@ ORMs, PHP, Laravel, HTML, CSS, VUE.JS.
 
 
 
-# Contáctame en las siguientes redes: ⌨️
+# Contact me on the following networks: ⌨️
 
 [Twitter](https://twitter.com/armycrih) | [Instagram](https://www.instagram.com/armycrih/) | [LinkedIn](
 https://www.linkedin.com/in/armycrih/) 
