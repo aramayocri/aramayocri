@@ -22,8 +22,10 @@ ORMs, PHP, Laravel, HTML, CSS, VUE.JS.
 
 
 
-# Contact me on the following networks: ⌨️
+# Find me on the Web
+**📝 I write in**: <a href="https://armycrih.com" target="_blank">ArmyCrih.Com</a>
 
+**💬 Let's talk by**:
 [Twitter](https://twitter.com/armycrih) | [Instagram](https://www.instagram.com/armycrih/) | [LinkedIn](
 https://www.linkedin.com/in/armycrih/) 
 
