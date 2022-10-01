@@ -23,6 +23,9 @@ ORMs, PHP, Laravel, HTML, CSS, VUE.JS.
 
 
 # Find me on the Web
+
+## Cristian Army | @armycrih
+
 **📝 I write in**: <a href="https://armycrih.com" target="_blank">ArmyCrih.Com</a>
 
 **💬 Let's talk by**:
