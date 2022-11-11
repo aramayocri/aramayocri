@@ -17,8 +17,8 @@ Fake dataset generator for Data Science Students
 [>> repository](https://github.com/armycrih/datafake)
 
 # Tecnologías 
-Django, Flask, FastAPI, MySQL, PostgreSQL, SQL-Alchemy, 
-ORMs, PHP, Laravel, HTML, CSS, VUE.JS.
+Django, FastAPI, MySQL, PostgreSQL, 
+ORMs, Docker.
 
 
 
