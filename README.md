@@ -1,5 +1,5 @@
 # Hello! I'm Cristian
-<p align="center"><img src="portada_code_armycrih.jpg" alt="portada"></p>
+<p align="center"><img src="portada_code.jpg" alt="portada"></p>
 
 Professional software engineer for more than twenty years.
 
