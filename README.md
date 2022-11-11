@@ -3,7 +3,7 @@
 
 Professional software engineer for more than twenty years.
 
-Since February 2022 I have been 100% dedicated to what I am passionate about: Web Development, Blockchain and Data Science.
+Since March 2022 I am also dedicated to my new passion: data science and artificial intelligence.
 
 I am currently developing web applications for digital artists and data science students. Excited about this collaboration that, at the same time, helps me apply my knowledge as a software engineer and programmer in a language as versatile as Python.
 
