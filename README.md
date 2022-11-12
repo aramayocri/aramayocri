@@ -1,5 +1,5 @@
 # Hello! I'm Cristian
-<p align="center"><img src="portada-linkedin-python.png" alt="portada"></p>
+<p align="center"><img src="" alt="portada"></p>
 
 Professional software engineer for more than twenty years.
 
