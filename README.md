@@ -28,7 +28,7 @@ ORMs, Docker.
 
 **💬 Let's talk by**:
 
- [LinkedIn](https://www.linkedin.com/in/armycrih/) 
+ [LinkedIn](https://www.linkedin.com/in/armycrih/) | [Twitter](https://www.twitter.com/armycrih/)
 
 
 
