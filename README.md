@@ -10,11 +10,11 @@ I am currently developing web applications for digital artists and data science 
 # Portfolio 
 ## Iomanoid Project
 Iomanoid Directory Plus combines real-world utilities with Web3 by empowering the crypto community with exclusive tools and resources for NFT lovers.
-[>> repository](https://github.com/armycrih/Iomanoid-Project)
+[>> repository](https://github.com/aramayocri/Iomanoid-Project)
 
 ## DataFake Project
 Fake dataset generator for Data Science Students
-[>> repository](https://github.com/armycrih/datafake)
+[>> repository](https://github.com/aramayocri/datafake)
 
 # Tecnologías 
 Django, FastAPI, MySQL, PostgreSQL, 
