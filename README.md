@@ -24,7 +24,7 @@ ORMs, Docker.
 
 # Find me on the Web
 
-## Cristian H. | @armycrih
+## Cristian Aramayo
 
 **💬 Let's talk by**:
 
