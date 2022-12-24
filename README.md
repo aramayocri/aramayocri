@@ -1,11 +1,7 @@
 # Hello! I'm Cristian
-<p align="center"><img src="portada-python.png" alt="portada"></p>
+<p align="center"><img src="code-python.png" alt="portada"></p>
 
 Professional software engineer for more than twenty years.
-
-Since March 2022 I am also dedicated to my new passion: data science and artificial intelligence.
-
-I am currently developing web applications for digital artists and data science students. Excited about this collaboration that, at the same time, helps me apply my knowledge as a software engineer and programmer in a language as versatile as Python.
 
 # Portfolio 
 ## Iomanoid Project
