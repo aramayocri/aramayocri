@@ -3,28 +3,13 @@
 
 Professional software engineer for more than twenty years.
 
-# Portfolio 
-## Iomanoid Project
-Iomanoid Directory Plus combines real-world utilities with Web3 by empowering the crypto community with exclusive tools and resources for NFT lovers.
-[>> repository](https://github.com/CtrlCri/Iomanoid-Project)
+## Find me on the Web
 
-## DataFake Project
-Fake dataset generator for Data Science Students
-[>> repository](https://github.com/CtrlCri/datafake)
-
-# Tecnologías 
-Django, FastAPI, MySQL, PostgreSQL, 
-ORMs, Docker.
-
-
-
-# Find me on the Web
-
-## Cristian Aramayo
+### Cristian Aramayo Reyes @CtrlCri
 
 **💬 Let's talk by**:
 
- [LinkedIn](https://www.linkedin.com/in/CtrlCri/) | [Twitter](https://www.twitter.com/CtrlCri/)
+ [LinkedIn](https://www.linkedin.com/in/CtrlCri/) | [Twitter](https://www.twitter.com/CtrlCri/) | [Instagram](https://www.instagram.com/CtrlCri/)
 
 
 
