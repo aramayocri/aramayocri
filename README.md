@@ -1,7 +1,7 @@
 # Hello! I'm Cristian
 <p align="center"><img src="code-python.png" alt="portada"></p>
 
-Professional software engineer for more than twenty years.
+Professional with more than 15 years of experience in the technology industry.
 
 ## Find me on the Web
 
