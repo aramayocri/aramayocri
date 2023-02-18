@@ -2,7 +2,9 @@
 <p align="center"><img src="code-python.png" alt="portada"></p>
 
 Professional with more than 15 years of experience in the technology industry.
-![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}) 
+
+<p align="left"><img src="[code-python.png](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)" alt="Python"></p>
+
 ## Find me on the Web
 
 ### Cristian Aramayo Reyes @CtrlCri
