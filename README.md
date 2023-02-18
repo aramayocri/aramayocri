@@ -3,7 +3,9 @@
 
 Professional with more than 15 years of experience in the technology industry.
 
-<p align="left"><img src="[code-python.png](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)" alt="Python"></p>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+</p>
 
 ## Find me on the Web
 
