@@ -1,7 +1,9 @@
 # Hello! I'm Cristian
 <p align="center"><img src="code-python.png" alt="portada"></p>
 
-Professional with more than 15 years of experience in the technology industry.
+Professional with more than 15 years of experience in the technology industry. Currently as a Python Developer I am working on Web applications using the following technologies Django Rest Framework, PostgreSQL and Docker among others.
+
+I like solving problems, I am passionate about creating, that my work has an impact on people's lives and being able to contribute to Innovation. I am also passionate about everything that has to do with AI and Data Science.
 
 <p align="left">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
