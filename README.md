@@ -1,9 +1,13 @@
 # Hello! I'm Cristian
 <p align="center"><img src="code-python.png" alt="portada"></p>
 
-Professional with more than 15 years of experience in the technology industry. Currently as a Python Developer I am working on Web applications using the following technologies Django Rest Framework, PostgreSQL and Docker among others.
+Currently, as a Data Analyst with a background in Software Engineering, I possess over 15 years of experience in the technology industry. My expertise lies in analyzing and interpreting data to derive meaningful insights and facilitate data-driven decision-making.
 
-I like solving problems, I am passionate about creating, that my work has an impact on people's lives and being able to contribute to Innovation. I am also passionate about everything that has to do with AI and Data Science.
+In my role, I leverage my strong technical skills in Python to develop efficient solutions for data processing and analysis. I have an in-depth understanding of frameworks like Django Rest Framework and a proficiency in working with databases such as PostgreSQL. Additionally, I have hands-on experience in utilizing Docker to containerize applications and streamline deployment processes.
+
+My passion for problem-solving drives me to tackle complex data challenges and explore innovative solutions. I am dedicated to utilizing data to optimize processes, enhance performance, and drive business growth. With a keen interest in artificial intelligence and data science, I continuously explore emerging techniques and stay abreast of the latest industry trends.
+
+Overall, as a Data Analyst with a software engineering background, I offer a unique blend of analytical and technical skills that enable me to extract valuable insights from data and contribute to the success of data-driven projects.
 
 <p align="left">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
