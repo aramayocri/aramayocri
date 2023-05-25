@@ -1,13 +1,16 @@
 # Hello! I'm Cristian
 <p align="center"><img src="code-python.png" alt="portada"></p>
 
-Currently, as a Data Analyst with a background in Software Engineering, I possess over 15 years of experience in the technology industry. My expertise lies in analyzing and interpreting data to derive meaningful insights and facilitate data-driven decision-making.
+Software Engineer with over 15 years of experience in the technology industry. Currently working as a Python Developer, specializing in web applications using technologies such as Django Rest Framework, PostgreSQL, and Docker, among others.
 
-In my role, I leverage my strong technical skills in Python to develop efficient solutions for data processing and analysis. I have an in-depth understanding of frameworks like Django Rest Framework and a proficiency in working with databases such as PostgreSQL. Additionally, I have hands-on experience in utilizing Docker to containerize applications and streamline deployment processes.
+I enjoy problem-solving and have a passion for creation. I strive for my work to have a positive impact on people's lives and contribute to innovation. I am also deeply fascinated by everything related to Artificial Intelligence and Data Science.
 
-My passion for problem-solving drives me to tackle complex data challenges and explore innovative solutions. I am dedicated to utilizing data to optimize processes, enhance performance, and drive business growth. With a keen interest in artificial intelligence and data science, I continuously explore emerging techniques and stay abreast of the latest industry trends.
+Throughout my career, I have honed my programming skills and problem-solving abilities, enabling me to thrive in rapidly changing environments. I am always eager to acquire new knowledge and stay updated on the latest technological advancements and trends.
 
-Overall, as a Data Analyst with a software engineering background, I offer a unique blend of analytical and technical skills that enable me to extract valuable insights from data and contribute to the success of data-driven projects.
+As I am also interested in Data Science and AI, you can find some notebooks in my repository showcasing my expertise and exploration in these areas.
+
+If you're looking to collaborate on innovative projects or need assistance with web application development using Python, feel free to reach out. I am excited to be a part of projects that drive technology forward and improve people's lives.
+
 
 <p align="left">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
