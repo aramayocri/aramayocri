@@ -1,4 +1,4 @@
-# Hello! I'm Cristian
+# Hello! I'm CtrlCri
 <p align="center"><img src="code-python.png" alt="portada"></p>
 
 Software Engineer with over 15 years of experience in the technology industry. Currently working as a Python Developer, specializing in web applications using technologies such as Django Rest Framework, PostgreSQL, and Docker, among others.
