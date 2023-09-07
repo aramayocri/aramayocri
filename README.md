@@ -1,4 +1,4 @@
-# Hello everyone, I am a Cristian.
+# Hello everyone, I'm Cristian.
 <p align="center"><img src="code-python.png" alt="portada"></p>
 
 With more than 15 years of experience in the technology industry, I am currently working as a Python Developer, using technologies such as DRF, PostgreSQL and Docker, among others.
