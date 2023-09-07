@@ -1,16 +1,15 @@
-# Hello! I'm CtrlCri
+# Hello everyone, I am a Cristian.
 <p align="center"><img src="code-python.png" alt="portada"></p>
 
-Software Engineer with over 15 years of experience in the technology industry. Currently working as a Python Developer, specializing in web applications using technologies such as Django Rest Framework, PostgreSQL, and Docker, among others.
+With more than 15 years of experience in the technology industry, I am currently working as a Python Developer, using technologies such as DRF, PostgreSQL and Docker, among others.
 
-I enjoy problem-solving and have a passion for creation. I strive for my work to have a positive impact on people's lives and contribute to innovation. I am also deeply fascinated by everything related to Artificial Intelligence and Data Science.
+I enjoy solving problems and I have a passion for creation. I strive for my work to have a positive impact on people's lives and contribute to innovation.
 
-Throughout my career, I have honed my programming skills and problem-solving abilities, enabling me to thrive in rapidly changing environments. I am always eager to acquire new knowledge and stay updated on the latest technological advancements and trends.
+Throughout my career, I have honed my programming and problem solving skills, allowing me to thrive in rapidly changing environments. I am always eager to gain new knowledge and stay up to date on the latest advancements and technological trends.
 
-As I am also interested in Data Science and AI, you can find some notebooks in my repository showcasing my expertise and exploration in these areas.
+Since I am also interested in data science and artificial intelligence, you can find some notebooks in my repository.
 
-If you're looking to collaborate on innovative projects or need assistance with web application development using Python, feel free to reach out. I am excited to be a part of projects that drive technology forward and improve people's lives.
-
+If you want to collaborate on innovative projects or need help with application development using Python, feel free to contact me. I am excited to be a part of projects that advance technology and improve people's lives.
 
 <p align="left">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
